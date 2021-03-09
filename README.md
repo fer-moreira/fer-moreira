@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nando_ferreira2" target="blank"><img src="https://img.shields.io/twitter/follow/nando_ferreira2?logo=twitter&style=for-the-badge" alt="nando_ferreira2" /></a> </p>
 
-- 🔭 I’m currently working on ["Jornal O Globo" new technology](https://www.oglobo.globo.com)
+- 🔭 I’m currently working on ["Jornal O Globo" new technology](https://oglobo.globo.com)
 
 - 🌱 I’m currently learning **React, Deno, AlepthJS**
 
