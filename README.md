@@ -1,6 +1,6 @@
 👋 **Here's a little bit about me:**
 
-- ✨ Web developer and Game developer.
+- ✨ Web Fullstack developer and Game developer.
 - 🌍 Based in Rio de Janeiro, Brazil.
 - 🌺 Developer of [Jornal O Globo](https://oglobo.globo.com/), [Jornal Extra](https://extra.globo.com/), [Patrícia Kogut](http://www.patriciakogut.com/), [Colunas O Globo](http://blogs.oglobo.globo.com/) 
 - 🛠 Mostly code in Python (+ ReactJS) and C# in Unity Engine .
