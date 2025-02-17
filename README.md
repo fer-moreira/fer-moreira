@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Fernando Moreira!
+# 👋 Hello, I'm Fernando Ferreira Moreira!
 
-I'm a Web Fullstack developer and Game developer based in Rio de Janeiro, Brazil. I have a passion for creating engaging web applications and immersive gaming experiences. 
+I'm a Python Specialist and Game developer based in Rio de Janeiro, Brazil. I have a passion for creating engaging web applications and immersive gaming experiences. 
 
 ## 🚀 Projects
 
