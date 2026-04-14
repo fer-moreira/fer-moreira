@@ -25,5 +25,4 @@ Based in Rio de Janeiro, Brazil. I am a technology professional passionate about
 ## 📫 Let's Connect
 
 * 💼 **LinkedIn**: [linkedin.com/in/fmoreira13](https://www.linkedin.com/in/fmoreira13/)
-* ✉️ **Email**: [nandoferreira_prof@hotmail.com](mailto:nandoferreira_prof@hotmail.com)
 * 🐦 **Twitter**: [@nando_ferreira2](https://twitter.com/nando_ferreira2)
